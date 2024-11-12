@@ -34,7 +34,7 @@ To get started:
 
 1. Browse our [issues](https://github.com/merge-matrix/mergematrix/issues) to see where help is needed.
 2. Comment on an issue to get it assigned to you.
-3. Follow our contribution guidelines in [CONTRIBUTING.md](https://github.com/merge-matrix/mergematrix/CONTRIBUTING.md) for code style and pull request protocols.
+3. Follow our contribution guidelines in [CONTRIBUTING.md](https://github.com/Merge-Matrix/MergeMatrix/blob/main/CONTRIBUTING.md) for code style and pull request protocols.
 
 Together, we can make MergeMatrix a reliable resource for the developer community!
 
