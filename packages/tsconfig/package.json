@@ -1,0 +1,19 @@
+{
+  "name": "@mergematrix/tsconfig",
+  "version": "1.0.0",
+  "description": "TSConfig files for MergeMatrix monorepo",
+  "homepage": "https://mergematrix.de",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Merge-Matrix/MergeMatrix.git",
+		"directory": "packages/tsconfig"
+	},
+  "author": "ScalerIT <hallo@scalerit.com>",
+  "license": "MIT",
+  "exports": {
+		"./base": "./base/tsconfig.json",
+		"./node20-cjs": "./node20-cjs/tsconfig.json",
+		"./node20-esm": "./node20-esm/tsconfig.json",
+		"./nextjs": "./nextjs/tsconfig.json"
+	}
+}

@@ -1,0 +1,17 @@
+{
+  "name": "@mergematrix/env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://mergematrix.de",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Merge-Matrix/MergeMatrix.git",
+		"directory": "packages/env"
+	},
+  "author": "ScalerIT <hallo@scalerit.com>",
+  "license": "MIT"
+}
